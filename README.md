@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 </style>
 
 <div class="container">
-<h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
+<h1>Hi there, my name is Manminder Singh <div class="hi">👋</div></h1>
 </div>
 </div>
 </foreignObject>
