@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manminder11) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manminder11)](https://github.com/manminder11/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manminder11)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manminder11)](https://github.com/manminder11/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manminder11)](https://github.com/manminder11/github-readme-stats)
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
