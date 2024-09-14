@@ -32,10 +32,15 @@ Here are some ideas to get you started:
     </a>
 </div>
 
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/[manminder11]/[manminder11]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[manminder11]&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
+</div>
 
 
 
