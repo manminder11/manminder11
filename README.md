@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/[manminder11]/[manminder11]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/manminder11/manminder11/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
 
@@ -51,12 +51,6 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">
-   
-    <h2>🚀 About Me</h2>
-<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a learning software development.</p>
-</div>
 
 
 https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl 
