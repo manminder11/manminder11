@@ -57,8 +57,6 @@ Here are some ideas to get you started:
 
 
 
-https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl 
-
 
 
 
