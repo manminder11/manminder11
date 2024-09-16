@@ -40,6 +40,22 @@ Here are some ideas to get you started:
 
 
 
+
+
+import { createRoot } from 'react-dom/client'
+import { ReactSVG } from 'react-svg'
+
+const container = document.getElementById('root')
+const root = createRoot(container)
+root.render(<ReactSVG src="svg.svg" />)
+
+
+
+
+
+
+
+
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manminder11&theme=github_dark" alt="Manminder's GitHub Stats"/>
 </div>
