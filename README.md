@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 </div>
 
 ![manminder11's Stats](https://github-readme-stats.vercel.app/api?username=manminder11&theme=dark&show_icons=true&hide_border=false&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=manminder11&theme=dark&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 ![manminder11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manminder11&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 
