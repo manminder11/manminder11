@@ -32,11 +32,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manminder11&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-
-
 <div align="center">
     <!-- Replace href with your links -->
     <a href="https://www.linkedin.com/in/[https://www.linkedin.com/in/manminder-singh-6170842a7/]/">
@@ -45,7 +40,7 @@ Here are some ideas to get you started:
 </div>
 
 ![manminder11's Stats](https://github-readme-stats.vercel.app/api?username=manminder11&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![manminder11's Streak](https://github-readme-streak-stats.herokuapp.com/?user=manminder11&theme=dark&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=manminder11&theme=dark&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 ![manminder11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manminder11&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 
