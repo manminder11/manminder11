@@ -13,16 +13,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manminder11)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manminder11)](https://github.com/manminder11/github-readme-stats)
-
-
 
 
 <div align="center">
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Manminder;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manminder11)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manminder11)](https://github.com/manminder11/github-readme-stats)
+
+
+
 
 
 <div align="center">
