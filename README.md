@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manminder11)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manminder11)](https://github.com/manminder11/github-readme-stats)
+
 
 
 
@@ -38,6 +38,10 @@ Here are some ideas to get you started:
     </a>
 </div>
 
+![manminder11's Stats](https://github-readme-stats.vercel.app/api?username=manminder11&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![manminder11's Streak](https://github-readme-streak-stats.herokuapp.com/?user=manminder11&theme=dark&hide_border=false)
+![manminder11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manminder11&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
 
 ## Technical Skills
 
@@ -48,15 +52,7 @@ Here are some ideas to get you started:
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manminder11&theme=github_dark" alt="Manminder's GitHub Stats"/>
 </div>
 
-<table align="center" width="100%" height="100%" >
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manminder11&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manminder11&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manminder11&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manminder11&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-    </tr>
- </table>
-</div>
+
 
 
 
