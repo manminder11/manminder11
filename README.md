@@ -24,9 +24,15 @@ Here are some ideas to get you started:
 </div>
 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-GitHub-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
