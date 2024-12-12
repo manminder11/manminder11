@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
 ![manminder11's Stats](https://github-readme-stats.vercel.app/api?username=manminder11&theme=dark&show_icons=true&hide_border=false&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=manminder11&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=manminder11&theme=radical" alt="GitHub Streak" /></a>
 ![manminder11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manminder11&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 
