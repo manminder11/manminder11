@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 
 ![manminder11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manminder11&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
+[![roadmap.sh](https://roadmap.sh/card/wide/675324d1ecc889bb0df4d820?variant=dark)](https://roadmap.sh)
+
 
 ## Technical Skills
 
