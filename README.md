@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     </a>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=manminder11&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=manminder11)](https://git.io/streak-stats)
 
 ## Technical Skills
 
