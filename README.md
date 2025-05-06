@@ -9,7 +9,7 @@
 </div>
 
 
-
+Hi i am Manminder  i like python and gta 5 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=manminder11)](https://git.io/streak-stats)
